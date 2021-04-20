@@ -1,4 +1,4 @@
 Flask==1.1.1
-py==1.8.0
+py==1.10.0
 virtualenv==16.7.5
 Werkzeug
